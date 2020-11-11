@@ -1,1 +1,9 @@
+ab :balloon: 🎈
+ab :cracker: 🧨
+ab :gift: 🎁
 ab :heart: ❤ 
+ab :hot: 🔥
+ab :party: 🎉
+ab :poo: 💩
+ab :heart-eyes: 😍
+ab :smirk: 😏
